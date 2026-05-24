@@ -1,0 +1,2 @@
+package SolidResponsibilityPrinciples.SingleResponsibilityPrinciple;public class InvoiceRepository {
+}
